@@ -1,0 +1,1 @@
+# Bowling kata in TypeScript #
